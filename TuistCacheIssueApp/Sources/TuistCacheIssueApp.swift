@@ -10,4 +10,3 @@ struct TuistCacheIssueApp: App {
         }
     }
 }
-§
